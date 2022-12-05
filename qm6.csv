@@ -83,3 +83,5 @@ year,month,electricity_consumption,avg_temp,total_rainfall,unemployment_rate,ele
 2021,October,23.97,12.08,241.66,4.2,192.47,80.2,99,
 2021,November,26.4,7.84,102.52,4.1,209.55,58.2,100,
 2021,December,27.35,6.39,115.44,4.1,262.52,27.6,100.1,
+2022,January,27.52,5.2,104.08,3.9,206.88,62.7,100.3,
+2022,February,24.36,6.84,202.99,3.8,166.93,73.6,100.4,
