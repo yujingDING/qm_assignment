@@ -1,4 +1,4 @@
- borough ,year,theft,robbery,burglary,total_property_crime,total_crime,unemployment(tousands),earnings,number of NVQ4+ aged 16-64,Population estimate,Population per square kilometre
+borough,year,theft,robbery,burglary,total_property_crime,total_crime,unemployment(tousands),earnings,number of NVQ4+ aged 16-64,Population estimate,Population per square kilometre
  Westminster ,2015,25065 ,1547 ,3162 ,29774 ,49037 ,7700 ,656.00 ,104200 ,242299 ,11277 
  Wandsworth ,2015,6485 ,457 ,2395 ,9337 ,23226 ,9900 ,670.10 ,152500 ,315134 ,9197 
  Waltham Forest ,2015,4730 ,652 ,2236 ,7618 ,21650 ,9300 ,476.30 ,77900 ,271825 ,7004 
